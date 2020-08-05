@@ -1,1 +1,1 @@
-# budgetbattle-styleguidist
+# Budget Battle Components Documentation
